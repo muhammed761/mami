@@ -1,0 +1,64 @@
+*{
+	margin: 0px;
+	padding:0px;
+	box-sizing:0px;
+}
+body{
+ display: flex;
+ flex-direction:column;
+ align-items: center;
+}
+.log{
+	min-height: 100vh;
+	border:0px solid black;
+	width:300px;
+	height:470px;
+	min-height:100%;
+	padding-top: 20px;
+	margin:auto;
+	margin-top:50px;
+	padding:18px;
+	box-shadow:10px 8px 16px;
+}
+.in{
+	padding-left:10px;
+	padding:10px;
+}
+h1{
+	text-align:center;
+}
+.in button{
+	background-color:blue;
+	color: white;
+	border-radius:30px;
+	width:90px;
+	height:40px;
+	margin-left: 100px;
+	font-weight:bold;
+	border:none;
+	cursor: pointer;
+
+
+}
+.o{
+	padding:15px;
+	width:80%;
+	border-radius:5px;
+	
+}
+.go{
+	width:100px;
+	height:40px;
+	padding:5px;
+	background-color:orange;
+	color:white;
+	font-weight: bold;
+	border:none;
+	cursor: pointer;
+		border-radius:30px;
+}
+
+
+.s{
+	margin-left:50px;
+}
